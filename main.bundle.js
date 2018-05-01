@@ -414,7 +414,7 @@
 	  if (host === "localhost" || host === "127.0.0.1") {
 	    return "http://localhost:3000";
 	  } else {
-	    return "http://murmuring-earth-90329.herokuapp.com";
+	    return "https://murmuring-earth-90329.herokuapp.com";
 	  }
 	};
 
